@@ -1,0 +1,17 @@
+{
+  "name": "customize-bootstrap-bower-install",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^4.0.0",
+    "gulp-importify": "0.0.7",
+    "gulp-less": "^3.3.0",
+    "gulp-less-import": "^1.0.0",
+    "gulp-order": "^1.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-print": "^2.0.1",
+    "main-bower-files": "^2.13.1",
+    "merge2": "^1.0.2"
+  }
+}
