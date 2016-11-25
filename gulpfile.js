@@ -15,7 +15,7 @@ gulp.task('bootstrap', function(){
       gulp.src(bower({group: 'bootstrap'}))
         // We filter to only get bootstrap less file defined in our overrides
         .pipe(filter('**/*.less')),
-      // The path to the variables.less depend on your app structure
+      // The path to the variables.less file, depend on your app structure
       gulp.src('./assets/style/variables.less')
     )
     .pipe(print())
